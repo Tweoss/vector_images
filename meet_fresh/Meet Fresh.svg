@@ -46,7 +46,7 @@
 <clipPath id="ArtboardFrame">
 <rect height="792" width="612" x="0" y="0"/>
 </clipPath>
-<g clip-path="url(#ArtboardFrame)" id="Image" vectornator:layerName="Image">
+<g clip-path="url(#ArtboardFrame)" id="Image" vectornator:layerName="Image" visibility="hidden">
 <use opacity="1" transform="matrix(0.796875 0 0 0.796875 0 0)" xlink:href="#Image_2"/>
 </g>
 <g clip-path="url(#ArtboardFrame)" id="Table" vectornator:layerName="Table">
